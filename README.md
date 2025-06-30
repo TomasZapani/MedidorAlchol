@@ -53,5 +53,5 @@ Actualmente en versión MVP. Futuras mejoras podrían incluir:
 **Desarrollado por:** Tomás Jesús Zapani
 
 ![Texto alternativo](AA164C6B-A275-4554-9FBC-49D2EF22E4F7.jpeg)
-![Texto alternativo](BF584D27-A215-4F80-9F09-0AF1D8F77958.jpeg)
+![Texto alternativo](IMG_3892.jpeg)
 ![Texto alternativo](BF584D27-A215-4F80-9F09-0AF1D8F77958.jpeg)
