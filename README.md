@@ -50,6 +50,4 @@ Actualmente en versión MVP. Futuras mejoras podrían incluir:
 
 ---
 
-**Desarrollado por:** \[Tu nombre o alias]
-
-**Licencia:** MIT
+**Desarrollado por:** Tomás Jesús Zapani
